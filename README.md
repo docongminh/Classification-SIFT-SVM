@@ -19,6 +19,13 @@ Root/
   - 'pedestrian': 2
   - 'truck': 3
   - 'bus': 4
+  
+# Statistic Data
+    - Statistics All Classes
+    <img src = "https://github.com/minhhaui/Classification-SIFT-SVM/blob/master/image/data.png">
+    
+    - Statistics Classes
+    <img src = "https://github.com/minhhaui/Classification-SIFT-SVM/blob/master/image/statistic.png" >
 
 
     
