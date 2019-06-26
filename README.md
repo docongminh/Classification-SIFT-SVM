@@ -32,6 +32,9 @@ Root/
     - Statistics Classes
     
  <img src="https://github.com/minhhaui/Classification-SIFT-SVM/blob/master/image/statistic.png" >
+ 
+ # Accuracy 
+    - 
 
 
     
