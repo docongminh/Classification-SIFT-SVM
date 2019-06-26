@@ -15,7 +15,7 @@ Root/
     
 # Hyperparameters
   - Number of centroid in Kmean: 60
-  - C in SVM: 30
+  - Penalty parameter C of the error term in SVM: 30
 
 # Label 
   - 'moto': 0
