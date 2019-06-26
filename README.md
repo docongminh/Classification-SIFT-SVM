@@ -4,9 +4,13 @@ Build a classifier to classsification transport using sift, bag of words and svm
 # Tree Project
 
 Root/ 
+
     data  # Data contains total 1854 image of 5 classes: bus, car, moto, pedestrian 
+    
     data_loader.py  # Imread image and label for data
+    
     sift_extractors.py # Extract features with SIFT and Build Bag of Word
+    
     build_model.py  # Build model SVM and training
     
 # Hyperparameters
