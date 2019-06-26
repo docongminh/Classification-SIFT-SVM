@@ -34,7 +34,7 @@ Root/
  <img src="https://github.com/minhhaui/Classification-SIFT-SVM/blob/master/image/statistic.png" >
  
  # Accuracy 
-    - 
+    - Accuracy score: 72.9% - test size: 0.2 
 
 
     
