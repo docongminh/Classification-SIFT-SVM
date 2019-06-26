@@ -22,10 +22,12 @@ Root/
   
 # Statistic Data
     - Statistics All Classes
-    <img src = "https://github.com/minhhaui/Classification-SIFT-SVM/blob/master/image/data.png">
+    
+    <img src="https://github.com/minhhaui/Classification-SIFT-SVM/blob/master/image/data.png">
     
     - Statistics Classes
-    <img src = "https://github.com/minhhaui/Classification-SIFT-SVM/blob/master/image/statistic.png" >
+    
+    <img src="https://github.com/minhhaui/Classification-SIFT-SVM/blob/master/image/statistic.png" >
 
 
     
