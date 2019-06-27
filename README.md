@@ -35,6 +35,12 @@ Root/
  
  # Accuracy 
     - Accuracy score: 72.9% - test size: 0.2 
+    
+ # Requirements
+    - opencv-contrib-python==3.4.2.16
+    
+    - opencv-python==3.4.2.16
+    
 
 
     
