@@ -52,6 +52,8 @@ Root/
     
     - opencv-python==3.4.2.16
     
+ # [More colab](https://drive.google.com/open?id=1ZyZUT8eAYuyi2Km-tBFC6skSEyG37GTg)
+    
 
 
     
