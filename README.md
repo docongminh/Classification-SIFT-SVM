@@ -13,6 +13,8 @@ Root/
     
     build_model.py  # Build model SVM and training
     
+    gridSearchCV    # implement GridSearchCV find Hyper-params
+    
 # Hyperparameters
   - Number of centroid in Kmean: 60
   - Penalty parameter C of the error term in SVM: 30
@@ -35,6 +37,15 @@ Root/
  
  # Accuracy 
     - Accuracy score: 72.9% - test size: 0.2 
+  
+ # Using GridSearchCV
+    - Best params
+    
+        'clf__C': 5,
+        'clf__gamma': 0.01,
+        'clf__kernel': 'rbf'
+        
+     - Accuracy:  75.72% +/-1.52%
     
  # Requirements
     - opencv-contrib-python==3.4.2.16
